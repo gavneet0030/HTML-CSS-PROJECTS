@@ -61,3 +61,67 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 <hr/>
 
+
+
+<h2 align="center"> Project Overview</h2>
+
+<p align="center">
+  This repository contains a curated set of frontend projects developed
+  using <b>HTML5</b> and <b>CSS3</b>, focusing on real-world UI layouts
+  and responsive web design patterns.
+</p>
+
+<p align="center">
+  Each project demonstrates a structured approach to building user
+  interfaces, emphasizing clean markup, reusable styles, and consistent
+  visual hierarchy across different screen sizes.
+</p>
+
+<p align="center">
+  The projects are designed to reflect:
+</p>
+
+<p align="center">
+  • Semantic and accessible HTML structure<br/>
+  • Modern CSS layout techniques (Flexbox & Grid)<br/>
+  • Responsive behavior for desktop and mobile views<br/>
+  • Clean, minimal, and user-friendly UI components
+</p>
+
+<p align="center">
+  This collection evolves progressively, with every project improving
+  upon design decisions, layout efficiency, and frontend best practices.
+</p>
+
+<hr/>
+
+
+
+
+
+<h2 align="center"> Technology Stack</h2>
+
+<p align="center">
+  The projects in this repository are built using core frontend
+  technologies, focusing on performance, accessibility, and modern
+  design standards.
+</p>
+
+<p align="center">
+  Primary technologies used:
+</p>
+
+<p align="center">
+  • <b>HTML5</b> — Semantic markup for structured and accessible content<br/>
+  • <b>CSS3</b> — Styling with modern selectors and properties<br/>
+  • <b>Flexbox</b> — One-dimensional layout alignment and spacing<br/>
+  • <b>CSS Grid</b> — Two-dimensional layout systems for complex designs<br/>
+  • <b>Media Queries</b> — Responsive behavior across devices
+</p>
+
+<p align="center">
+  No external frameworks or JavaScript libraries are used, ensuring a
+  strong understanding of core frontend fundamentals.
+</p>
+
+<hr/>
