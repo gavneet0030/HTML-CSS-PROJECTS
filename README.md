@@ -176,6 +176,42 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 
 
+<h2 align="center">📊 HTML & CSS Render Pipeline (Flowchart)</h2>
+
+<p align="center">
+  <img src="https://github.com/gavneet0030/HTML-CSS-PROJECTS/blob/main/chart/HTML%20CSSOM%20Render%20Pipeline-2026-01-15-132205.png"
+       alt="HTML CSS Render Pipeline Flowchart"
+       width="80%" />
+</p>
+
+<p align="center">
+  The above flowchart represents the complete rendering process followed
+  by the browser to display HTML and CSS based projects.
+</p>
+
+<p align="center">
+  This render pipeline is applicable to projects such as
+  <b>Pookie Card</b> and <b>Square Hover</b> included in this repository.
+</p>
+
+<p align="center">
+  • HTML file is loaded and parsed to create the DOM tree<br/>
+  • CSS file is loaded and parsed to create the CSSOM tree<br/>
+  • DOM and CSSOM are combined to form the Render Tree<br/>
+  • Layout calculation determines size and position of elements<br/>
+  • Painting phase draws the UI on the screen<br/>
+  • Final rendered output is displayed to the user
+</p>
+
+<p align="center">
+  This flowchart helps in understanding how structure and styling work
+  together to produce the final user interface.
+</p>
+
+<hr/>
+
+
+
 <h2 align="center"> How to Run</h2>
 
 <p align="center">
