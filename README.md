@@ -99,9 +99,8 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Technology-Stack-blue?style=for-the-badge" />
-</h2>
+<h2 align="center"> Technology Stack</h2>
+
 
 <p align="center">
   This project collection is created and designed using only core
@@ -132,9 +131,7 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Performance-Analysis-blue?style=for-the-badge" />
-</h2>
+<h2 align="center"> Big-O-Table </h2>
 
 <p align="center">
   Since this repository contains projects built using only
