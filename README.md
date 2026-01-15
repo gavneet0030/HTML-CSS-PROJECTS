@@ -122,5 +122,61 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
   layouts and responsive designs can be achieved using core technologies.
 </p>
 
+
+
+
+
+
+
+
+
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Performance-Analysis-blue?style=for-the-badge" />
+</h2>
+
+<p align="center">
+  Since this repository contains projects built using only
+  <b>HTML and CSS</b>, there are no algorithms or data structures involved.
+  However, performance considerations are related to how browsers process
+  HTML and CSS.
+</p>
+
+<p align="center">
+  Below is a conceptual performance table for static frontend projects:
+</p>
+
+<p align="center">
+<table align="center">
+  <tr>
+    <th>Process</th>
+    <th>Description</th>
+    <th>Time Complexity</th>
+  </tr>
+  <tr>
+    <td>HTML Parsing</td>
+    <td>Browser reads and builds the DOM</td>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+    <td>CSS Parsing</td>
+    <td>Stylesheets are parsed and rules applied</td>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+    <td>Rendering</td>
+    <td>Layout, paint, and display</td>
+    <td>Depends on layout size</td>
+  </tr>
+</table>
+</p>
+
+<p align="center">
+  This table helps understand how static web pages are processed by the browser
+  and why clean, optimized HTML & CSS improve performance.
+</p>
+
+<hr/>
+
 <hr/>
 
