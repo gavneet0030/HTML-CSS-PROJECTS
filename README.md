@@ -99,28 +99,29 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 
 
-<h2 align="center">🛠️ Technology Stack</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Technology-Stack-blue?style=for-the-badge" />
+</h2>
 
 <p align="center">
-  All projects in this repository are <b>created, designed, and developed</b>
-  using only <b>HTML</b> and <b>CSS</b>, focusing on core frontend
-  fundamentals and clean UI development.
+  This project collection is created and designed using only core
+  frontend technologies, with a strong focus on clean structure and
+  responsive layouts.
 </p>
 
 <p align="center">
-  Technologies used in this project:
+  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p align="center">
-  • <b>HTML</b> — Used to create structured, semantic, and accessible web pages<br/>
-  • <b>CSS</b> — Used to design layouts, control visual styling, and build responsive user interfaces
+  No JavaScript, frameworks, or libraries are used.  
+  The goal of this repository is to master <b>pure HTML & CSS</b>
+  and build strong frontend fundamentals.
 </p>
 
-<p align="center">
-  No JavaScript, libraries, or frameworks are used.  
-  The goal is to master <b>pure HTML & CSS</b> and understand how modern
-  layouts and responsive designs can be achieved using core technologies.
-</p>
+<hr/>
+
 
 
 
