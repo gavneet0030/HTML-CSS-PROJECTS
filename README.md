@@ -36,33 +36,41 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 
 
+<h2> Project Overview</h2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">HTML & CSS Projects Collection</h1>
-
-<p align="center">
-  <b>A professional collection of modern, responsive, and well-structured HTML & CSS projects.</b>
+<p>
+  This repository contains a collection of frontend projects developed
+  using <b>HTML5</b> and <b>CSS3</b>, focusing on real-world UI layout
+  patterns and responsive design principles.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/gavneet0030/HTML-CSS-PROJECT" alt="Repo Size">
-  <img src="https://img.shields.io/github/stars/gavneet0030/HTML-CSS-PROJECT?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/issues/gavneet0030/HTML-CSS-PROJECT" alt="Issues">
-  <img src="https://img.shields.io/github/license/gavneet0030/HTML-CSS-PROJECT" alt="License">
-  <img src="https://img.shields.io/badge/HTML5-Semantic-orange">
-  <img src="https://img.shields.io/badge/CSS3-Responsive-blue">
+<p>
+  Each project is structured to follow clean coding standards,
+  separation of concerns, and scalable styling practices. The layouts
+  are designed to adapt seamlessly across different screen sizes,
+  ensuring a consistent user experience on desktop, tablet, and mobile
+  devices.
 </p>
+
+<p>
+  Key characteristics of the projects include:
+</p>
+
+<ul>
+  <li>Semantic HTML for accessibility and structure</li>
+  <li>Modern CSS layouts using Flexbox and Grid</li>
+  <li>Responsive breakpoints for multiple devices</li>
+  <li>Reusable and maintainable CSS patterns</li>
+  <li>Pixel-aligned and clean UI components</li>
+</ul>
+
+<p>
+  This repository evolves progressively, with each project reflecting
+  improved design decisions and frontend best practices.
+</p>
+
+<hr/>
+
 
 <hr>
 
