@@ -174,6 +174,61 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
   and why clean, optimized HTML & CSS improve performance.
 </p>
 
+
+
+<h2 align="center"> How to Run</h2>
+
+<p align="center">
+  This section explains how to run and view the projects included in this
+  repository on a local machine. Since the projects are built using only
+  <b>HTML and CSS</b>, no additional tools or installations are required.
+</p>
+
+<p align="center">
+  Each project can be executed directly in a web browser by opening
+  its main HTML file.
+</p>
+
+<p align="center">
+  To run the projects locally, follow these steps:
+</p>
+
+<p align="center">
+  • Clone the repository from GitHub<br/>
+  • Open the project folder<br/>
+  • Run the HTML file in a browser
+</p>
+
+<p align="center">
+  <b>Step 1: Clone the repository</b>
+</p>
+
+<p align="center">
+  <code>git clone https://github.com/gavneet0030/HTML-CSS-PROJECTS.git</code>
+</p>
+
+<p align="center">
+  <b>Step 2: Navigate to the project directory</b>
+</p>
+
+<p align="center">
+  <code>cd HTML-CSS-PROJECTS</code>
+</p>
+
+<p align="center">
+  <b>Step 3: Open the project</b>
+</p>
+
+<p align="center">
+  Open the <b>index.html</b> file in any modern web browser to view the project.
+</p>
+
+<p align="center">
+  No build process, package installation, or server setup is required.
+</p>
+
+<hr/>
+
 <hr/>
 
 <hr/>
