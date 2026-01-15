@@ -35,42 +35,29 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 
 
 
+<h2 align="center"> Purpose</h2>
 
-<h2> Project Overview</h2>
-
-<p>
-  This repository contains a collection of frontend projects developed
-  using <b>HTML5</b> and <b>CSS3</b>, focusing on real-world UI layout
-  patterns and responsive design principles.
+<p align="center">
+  This repository is created to strengthen <b>frontend development fundamentals</b>
+  by building clean, responsive, and well-structured user interfaces
+  using <b>HTML and CSS only</b>.
 </p>
 
-<p>
-  Each project is structured to follow clean coding standards,
-  separation of concerns, and scalable styling practices. The layouts
-  are designed to adapt seamlessly across different screen sizes,
-  ensuring a consistent user experience on desktop, tablet, and mobile
-  devices.
+<p align="center">
+  The main goal is to practice modern layout techniques, understand
+  responsive design principles, and write maintainable frontend code
+  without relying on JavaScript or external frameworks.
 </p>
 
-<p>
-  Key characteristics of the projects include:
+<p align="center">
+  This project serves as a:
 </p>
 
-<ul>
-  <li>Semantic HTML for accessibility and structure</li>
-  <li>Modern CSS layouts using Flexbox and Grid</li>
-  <li>Responsive breakpoints for multiple devices</li>
-  <li>Reusable and maintainable CSS patterns</li>
-  <li>Pixel-aligned and clean UI components</li>
-</ul>
-
-<p>
-  This repository evolves progressively, with each project reflecting
-  improved design decisions and frontend best practices.
+<p align="center">
+  • Learning platform for frontend fundamentals<br/>
+  • Practical showcase of UI layout skills<br/>
+  • Foundation for advanced frontend and full-stack development
 </p>
 
 <hr/>
-
-
-<hr>
 
