@@ -102,26 +102,25 @@ Responsive Web Design • UI Layouts • Frontend Fundamentals
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <p align="center">
-  This project collection is <b>created and designed</b> using core
-  frontend technologies, with a strong emphasis on clean structure,
-  responsive layouts, and modern UI development practices.
+  All projects in this repository are <b>created, designed, and developed</b>
+  using only <b>HTML</b> and <b>CSS</b>, focusing on core frontend
+  fundamentals and clean UI development.
 </p>
 
 <p align="center">
-  The following technologies are used to build the projects:
+  Technologies used in this project:
 </p>
 
 <p align="center">
-  • <b>HTML5</b> — Used to create semantic, well-structured, and accessible web pages<br/>
-  • <b>CSS3</b> — Used to design visually clean and modern user interfaces<br/>
-  • <b>Flexbox</b> — Implemented for alignment, spacing, and flexible layouts<br/>
-  • <b>CSS Grid</b> — Applied to create complex and responsive page structures<br/>
-  • <b>Media Queries</b> — Used to ensure responsiveness across devices
+  • <b>HTML</b> — Used to create structured, semantic, and accessible web pages<br/>
+  • <b>CSS</b> — Used to design layouts, control visual styling, and build responsive user interfaces
 </p>
 
 <p align="center">
-  All projects are built <b>without frameworks or JavaScript</b>,
-  focusing purely on mastering HTML and CSS fundamentals.
+  No JavaScript, libraries, or frameworks are used.  
+  The goal is to master <b>pure HTML & CSS</b> and understand how modern
+  layouts and responsive designs can be achieved using core technologies.
 </p>
 
 <hr/>
+
