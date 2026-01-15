@@ -1,4 +1,4 @@
-<h1 align="center">🎨 HTML & CSS Projects</h1>
+<h1 align="center"> HTML & CSS Projects</h1>
 
 <h3 align="center">
 Responsive Web Design • UI Layouts • Frontend Fundamentals
